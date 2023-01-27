@@ -1,0 +1,12 @@
+WINDOW--> it is something that show on the screen in any
+ browser and a document is also access in the window or
+  can access any url.
+
+
+ SCREEN--> screen is responsible to show us those things
+  which come as output or it is mixture of crystals which
+   we can say lighter part in device.
+
+
+  DOCUMENT--> it is proceed in window it can be any type
+   of file to save the data in small size.

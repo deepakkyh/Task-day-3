@@ -1,0 +1,14 @@
+{
+    "Name": "DEEPAK KUMAR",
+    "DOB": "20/12/2000",
+    "GENDER" : "MALE",
+    "HOBBIES" : "Playing football,volleyball,Badminton,Running(state player),Reading Books,Travelling",
+    "LANGUAGE" : "Hindi,English",
+    "EDUCATION": [{
+        "X": "77.4 HBSE" ,
+        "XII" : "73.4 HBSE",
+        "GRAD" : "72 KU"  
+       }],
+       "Work Exp." : "Fresher",
+       "Skill" : "Basic knoledge of comp."
+}
